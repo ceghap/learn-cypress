@@ -10,4 +10,4 @@
 `npm run cy:run`
 
 ## run cypress targeting spec
-`npm run cy:run -- --record --spec "cypress/integration/my-spect.js"`
+`npm run cy:run --spec "cypress/integration/my-spec.js"`
